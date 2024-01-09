@@ -1,6 +1,6 @@
 ---
 title: "Activity Classification & Prediction"
-excerpt: "This project runs a activity classification model (Random Forest/Decision Tree) on the cloud based on sensors deployed in a house (ARUBA DATASET) and it predicts based on that. The actual setup of the sensors are not done, so it's a simulated sensor setup that randomly takes sensor values and according to timestamps and sends to the model to classify and hence predict the activity done at that time using those virtual sensor data. This project serves as a proof of concept that one can predict and monitor activity over the internet through sensors while being away for tasks such as elderly care monitoring<br/><img src='/images/hero.png'>"
+excerpt: "This project runs a activity classification model (Random Forest/Decision Tree) on the cloud based on sensors deployed in a house (ARUBA DATASET) and it predicts based on that. The actual setup of the sensors are not done, so it's a simulated sensor setup that randomly takes sensor values and according to timestamps and sends to the model to classify and hence predict the activity done at that time using those virtual sensor data. This project serves as a proof of concept that one can predict and monitor activity over the internet through sensors while being away for tasks such as elderly care monitoring<br/><img src='../images/hero.png'>"
 collection: portfolio
 ---
 
@@ -8,7 +8,7 @@ collection: portfolio
 
 This project runs a activity classification model (Random Forest/Decision Tree) on the cloud based on sensors deployed in a house (ARUBA DATASET) and it predicts based on that.
 
-<img src='/images/dataset.png'>
+<img src='../../images/dataset.png'>
 
 The actual setup of the sensors are not done, so it's a simulated sensor setup that randomly takes sensor values and according to timestamps and sends to the model to classify and hence predict the activity done at that time using those virtual sensor data. 
 
@@ -102,8 +102,8 @@ Ensure that an Android emulator or a physical device is connected.
 ## Screenshots
 
 <div>
-<img src="/images/image1.png">
-<img src="/images/image2.png">
+<img src="../../images/image1.png">
+<img src="../../images/image2.png">
 </div>
 
 ## License

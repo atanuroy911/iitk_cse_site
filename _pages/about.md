@@ -39,7 +39,7 @@ Atanu's current research interests include: (1) Embedded Systems, (2) Internet o
 
 
 <div><center>
-<img style="height:50px" src="/images/jxust.png"/>
-<img style="height:50px" src="/images/rarl.png"/>
-<img style="height:75px" src="/images/iitkredlogo.png"/>
+<img style="height:50px" src="images/jxust.png"/>
+<img style="height:50px" src="images/rarl.png"/>
+<img style="height:75px" src="images/iitkredlogo.png"/>
 </center></div>
