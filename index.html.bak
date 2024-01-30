@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Academic Website</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        nav {
+            background-color: #666;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 0 20px;
+        }
+        nav a:hover {
+            background-color: #999;
+        }
+        .container {
+            padding: 20px 0;
+        }
+        .content {
+            padding-right: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+    </style>
+</head>
+<body class="bg-gray-100">
+    <header class="bg-gray-800 text-white">
+        <h1 class="text-3xl">Academic Website</h1>
+    </header>
+    <nav class="bg-gray-700 text-white">
+        <a href="#" class="hover:bg-gray-900">Home</a>
+        <a href="#" class="hover:bg-gray-900">About</a>
+        <a href="#" class="hover:bg-gray-900">Courses</a>
+        <a href="#" class="hover:bg-gray-900">Contact</a>
+    </nav>
+    <div class="container flex flex-col lg:flex-row justify-between mx-auto">
+        <div class="content lg:w-3/4 p-4">
+            <h2 class="text-2xl text-gray-800">About Atanu Shuvam Roy</h2>
+            <p class="text-gray-700">Atanu Shuvam Roy is a Masters student in the Department of Computer Science and Engineering (CSE) at the Indian Institute of Technology, Kanpur (IITK). Atanu obtained his Bachelor degree in Computer Science and Engineering from the Jiangxi University of Science and Technology 【江西理工大学】 in Jan 2022 where he was part of the Robotics and Automation Research Lab (RARL).</p>
+            
+            <p class="text-gray-700">Atanu's current research interests include: 
+            <ul class="list-disc ml-8">
+                <li>Embedded Systems</li>
+                <li>Internet of Things (IoT)</li>
+                <li>Sensor Systems</li>
+                <li>Human Computer Interaction</li>
+            </ul>
+            </p>
+
+            <h2 class="text-2xl text-gray-800">Education</h2>
+            <ul class="text-gray-700 list-disc ml-8">
+                <li>Master of Technology (2022-2024)<br>Computer Science and Engineering (CSE), Indian Institute of Technology, Kanpur</li>
+                <li>Bachelor of Engineering (B. Tech.) (2018-2022)<br>Computer Science and Technology (CST), Jiangxi University of Science and Technology (JXUST), Ganzhou, Jiangxi, China</li>
+            </ul>
+
+            <h2 class="text-2xl text-gray-800">Experience</h2>
+            <ul class="text-gray-700 list-disc ml-8">
+                <li>Indian Institute of Technology, Kanpur<br>Student Researcher at IoT Vision Lab (Oct. 2022 - Present)<br>Working under Dr. Priyanka Bagade</li>
+                <li>Jiangxi University of Science and Technology<br>Chief Tech Expert at Robotics and Automation Research Lab (RARL)<br>Research Assistant under Dr. Ata Jahangir Moshayedi (Aug. 2018 - Dec. 2021)</li>
+            </ul>
+        </div>
+        <div class="image lg:w-1/4 p-4">
+            <img src="https://via.placeholder.com/200" alt="Atanu Shuvam Roy" class="mx-auto">
+        </div>
+    </div>
+    <footer class="bg-gray-800 text-white">
+        <p>&copy; 2024 Academic Website. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>

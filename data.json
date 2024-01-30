@@ -1,0 +1,38 @@
+{
+    "name": "Atanu Shuvam Roy",
+    "about": "Atanu Shuvam Roy is a Masters student in the Department of Computer Science and Engineering (CSE) at the Indian Institute of Technology, Kanpur (IITK). Atanu obtained his Bachelor degree in Computer Science and Engineering from the Jiangxi University of Science and Technology in Jan 2022 where he was part of the Robotics and Automation Research Lab (RARL).",
+    "research_interests": ["Embedded Systems", "Internet of Things (IoT)", "Sensor Systems", "Human Computer Interaction"],
+    "education": [
+      {
+        "degree": "Master of Technology",
+        "duration": "2022-2024",
+        "institution": "Indian Institute of Technology, Kanpur",
+        "department": "Computer Science and Engineering (CSE)"
+      },
+      {
+        "degree": "Bachelor of Engineering (B. Tech.)",
+        "duration": "2018-2022",
+        "institution": "Jiangxi University of Science and Technology (JXUST)",
+        "department": "Computer Science and Technology (CST)",
+        "location": "Ganzhou, Jiangxi, China"
+      }
+    ],
+    "experience": [
+      {
+        "institution": "Indian Institute of Technology, Kanpur",
+        "role": "Student Researcher",
+        "lab": "IoT Vision Lab",
+        "duration": "Oct. 2022 - Present",
+        "supervisor": "Dr. Priyanka Bagade"
+      },
+      {
+        "institution": "Jiangxi University of Science and Technology",
+        "role": "Chief Tech Expert",
+        "lab": "Robotics and Automation Research Lab (RARL)",
+        "duration": "Aug. 2018 - Dec. 2021",
+        "supervisor": "Dr. Ata Jahangir Moshayedi"
+      }
+    ],
+    "image_url": "images/profile.jpg"
+  }
+  
