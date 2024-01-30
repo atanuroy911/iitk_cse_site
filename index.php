@@ -53,7 +53,7 @@
                 <?php endforeach; ?>
             </ul>
             </p>
-
+            <br>
             <h2 class="text-2xl text-gray-800">Education</h2>
             <ul class="text-gray-700 list-disc ml-8">
                 <?php foreach ($profile['education'] as $education) : ?>
@@ -63,7 +63,7 @@
                     </li>
                 <?php endforeach; ?>
             </ul>
-
+            <br>
             <h2 class="text-2xl text-gray-800">Experience</h2>
             <ul class="text-gray-700 list-disc ml-8">
                 <?php foreach ($profile['experience'] as $experience) : ?>
